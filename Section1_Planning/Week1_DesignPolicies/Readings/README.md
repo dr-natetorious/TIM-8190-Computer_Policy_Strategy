@@ -90,7 +90,19 @@ One _moderate variable_: environmental uncertainty with three sub-constructs, wh
 
 ## What is IT governance (2017)
 
-Lindros, K. (2017, July 31). What is IT governance? A formal way to align IT & business strategy. [cio.com](https://www.cio.com/article/2438931/governanceit-governance-definition-and-solutions.html). [CIO_Governance](CIO_Governance.pdf).
+Lindros, K. (2017, July 31). What is IT governance? A formal way to align IT & business strategy. [cio.com](https://www.cio.com/article/2438931/governanceit-governance-definition-and-solutions.html). [CIO_Governance](CIO_Governance.pdf). [YouTube](https://youtu.be/5U5f17vO1Y0).
+
+The most commonly used frameworks are:
+
+- **COBIT**: Published by ISACA, COBIT is a comprehensive framework of "globally accepted practices, analytical tools and models" (PDF) designed for governance and management of enterprise IT. With its roots in IT auditing, ISACA expanded COBIT's scope over the years to fully support IT governance. The latest version is COBIT 5, which is widely used by organizations focused on risk management and mitigation.
+
+- **ITIL**: Formerly an acronym for Information Technology Infrastructure Library, ITIL focuses on IT service management. It aims to ensure that IT services support core processes of the business. ITIL comprises five sets of management best practices for service strategy, design, transition (such as change management), operation and continual service improvement.
+
+- **COSO**: This model for evaluating internal controls is from the Committee of Sponsoring Organizations of the Treadway Commission (COSO). COSO's focus is less IT-specific than the other frameworks, concentrating more on business aspects like enterprise risk management (ERM) and fraud deterrence.
+
+- **CMMI**: The Capability Maturity Model Integration method, developed by the Software Engineering Institute, is an approach to performance improvement. CMMI uses a scale of 1 to 5 to gauge an organization's performance, quality and profitability maturity level. According to Calatayud, "allowing for mixed mode and objective measurements to be inserted is critical in measuring risks that are qualitative in nature."
+
+- **FAIR**: Factor Analysis of Information Risk (FAIR) is a relatively new model that helps organizations quantify risk. The focus is on cyber security and operational risk, with the goal of making more well-informed decisions. Although it's newer than other frameworks mentioned here, Calatayud points out that it's already gained a lot of traction with Fortune 500 companies.
 
 ## How Information Technology Governance Influence Organizations (2015)
 
