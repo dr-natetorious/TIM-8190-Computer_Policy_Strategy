@@ -47,7 +47,46 @@ of governance-related root causes that can result in ‘bad things’:
 
 Iyamu, T. (Ed.). (2015). Strategic Information Technology Governance and Organizational Politics in Modern Business. IGI Global. [doi](https://doi.org/10.4018/978-1-4666-8524-6). [IGI Global Publisher](https://www-igi-global-com.proxy1.ncu.edu/gateway/book/124236). [StrategicIT_book](StrategicIT_book.pdf).
 
-> Read Chapter 1: “Towards a Contingency Model for Assessing Strategic Information Systems Planning Success in Medium Enterprises”
+Medium sized enterprises adopt technology without considering the broader implications.  This haphazard procurement model creates challenges integrating systems which now span different vendors and IT stacks.  The senior leadership team owns the budget, direction, and IT resource strategy.  However, those leaders are typically focused on running the business versus keeping up with the latest solutions.  Meanwhile, middle management lacks the training and experience to properly vet new patterns and paradymns.  Instead, businesses must define **Strategic Information Systems Planning** policies that align the IT direction with the business plans.
+
+> In the last two decades, much work has been done on organisational politics, as well as on strategic information technology (IT), often separately articulated and presented. Thus, what has been missing is the interaction between strategic IT and organisational politics, making many of the major IT challenges in organisations to remain unresolved. Some of the IT challenges include how networks of both human and non-human actors are formed; how the actors’ interacts; structural diverse; and manifestation of environmental factorsin the development, implementation, management and use of information systems and technologies in the organisations. It is in this area this book focuses upon, for the benefit of both the academic and corporate domains.
+
+### How did they study SISP
+
+The present study included one _independent variable_: Strategic Information Systems Planning Process (SISPP) with five phases namely:
+
+- strategic awareness,
+- situation analysis,
+- strategy conception,
+- strategy formulation,
+- and strategy implementation.
+
+![sispp.png](sispp.png)
+
+One _dependent variable_ was Strategic Information Systems Planning Success (SISPS). The SISPS contain four dimensions, namely:
+
+- alignment,
+- analysis,
+- cooperation,
+- and improvement in capabilities.
+
+![sisps.png](sisps.png)
+
+One _moderate variable_: environmental uncertainty with three sub-constructs, which are
+
+- environmental dynamism (instability),
+- environmental heterogeneity (diversity and complexity)
+- and environmental hostility (resource availability).
+
+![contingency.png](contingency.png)
+
+### What influence comes from organizational structure
+
+> Organisational structure is a `fundamental factor influencing SISP effectiveness and strategic information systems applications` (Wang & Tai, 2003). Organisational structure refers to the framework typically hierarchical within which an organisation arranges its lines of authority and communications, and allocates rights and duties. Organisational structure determines the manner and extent to which roles, power and responsibilities are delegated, controlled and coordinated, and how information flows between levels of management. `A structure depends entirely on the organisation’s objectives and the strategy chosen to achieve them` (Morton & Hu, 2008; Lee & Pai, 2003).
+>
+>According to Donaldson (2001) organisational structure is `more complicated than distinguishing between centralised and decentralised operations or decisions-making`. Other commonly cited structural dimensions include specialisation, standardisation, formalisation, hierarchical levels and span of control. Taking into account of the number of proposed structural dimensions and the variety of their definitions, `identifying a definitive set of organisational dimensions is difficult without specific context and objectives` (Morton & Hu, 2008).
+
+![org_struct.png](org_struct.png)
 
 ## What is IT governance (2017)
 
