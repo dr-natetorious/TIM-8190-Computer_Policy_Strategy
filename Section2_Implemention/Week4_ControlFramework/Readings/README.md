@@ -8,9 +8,7 @@ Evolving a project from concept to reality requires `documents that unify commun
 
 The authors state its important to treat these documents as `partnership agreements versus strict contracts`, as this perspective encourages collaboration and understand.  Each business unit and organization has its own values and standards.  When peer teams respect those decisions it creates a more hospitable relationship, and those agreements should also focus on critical aspects of the **Statement of Work**.
 
-> While the project charter will be more prolix on the “how”, business case and statement of work should focus on the stakeholder’s needs and describe the outcomes the project will have to produce, in other words the
-“what”. The project charter as prescribed by the PMBoK, and although it focuses on “how” rather than “what” remains a strategic document: while specifying the means available to the project manager and their team, it
-confirms the direction to be taken and specifies the course (or successive milestones) to be held. The PMBoK recommends that this document be validated by a person external to the project team, typically a project sponsor, a PMO manager or a programme manager. (pg. 24)
+> While the project charter will be more prolix on the “how”, business case and statement of work should focus on the stakeholder’s needs and describe the outcomes the project will have to produce, in other words the “what”. The project charter as prescribed by the PMBoK, and although it focuses on “how” rather than “what” remains a strategic document: while specifying the means available to the project manager and their team, it confirms the direction to be taken and specifies the course (or successive milestones) to be held. The PMBoK recommends that this document be validated by a person external to the project team, typically a project sponsor, a PMO manager or a programme manager. (pg. 24)
 
 ### What is PRINCE2
 
