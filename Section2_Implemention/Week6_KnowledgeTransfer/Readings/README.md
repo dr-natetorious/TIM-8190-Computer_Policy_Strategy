@@ -48,7 +48,7 @@ Chapter 6, **Lessons Learned and Best Practices**, lays the foundation for the f
 
 ### What are the maturity levels
 
-![maturity_levels_tech.png](maturity_levels.png)
+![maturity_levels_tech.png](maturity_levels_tech.png)
 ![maturity_levels_org.png](maturity_levels_org.png)
 ![maturity_levels_mgmt.png](maturity_levels_mgmt.png)
 ![maturity_levels_presence.png](maturity_levels_presence.png)
