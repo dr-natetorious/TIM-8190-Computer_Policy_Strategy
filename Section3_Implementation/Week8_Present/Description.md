@@ -1,0 +1,9 @@
+# IT Strategic Planning
+
+Information technology investments have associated costs, and the metrics used to measure return on investment may not be as easy to identify and measure as traditional investments. Metrics to measure operations or service supply performance improvement must be identified, presented, and justified to executive management and stakeholders to get approvals and budget assigned to them. IT policies and control structures impacts all operations. Therefore, it is essential to get executive management support and approval, reason why written policies for IT controls must also be developed and communicated to all users of systems and applications.
+
+The delivery approach of these technical presentations must be carefully crafted to present technical controls and language in a way that non-technical decision-makers understand and support. Ethical and legal considerations, like law mandates, international or local standards that apply depending on industry type, must be presented and explained as well with the potential implications of non-compliance. This can serve as a buy-in for approvals and budget allocation.
+
+In the end, it is critical that all employees, users, management, and stakeholders understand the importance of having a sound and reliable control structure that is properly set and configured. This structure will ensure data, processes, and services are carried out at the highest quality level, customers are satisfied with the products or services provided, and the organization keeps its standing in the industry. After all, data is a highly valued asset that must be protected at all costs.
+
+Review the resources listed below (and previously provided resources, as needed) to prepare for this week’s assignments. The resources may include textbook reading assignments, journal articles, websites, links to tools or software, videos, handouts, rubrics, etc.
